@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pickup
+  - wood
+  - rock
+  - foliage
+  - hemp
+  - food
+  - water
+  - tree
+  - meat
+  - fireplace
+  - enemy
+  - mirror1
+  - mirror2
+  - shelter
+  - sea
+  - mirror3
+  - mirror4
+  - mirror5
+  - goodBerries
+  - badBerries
+  - controls
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - pickup
+  - water
+  - oldTree
+  - newTree
+  - berryBush
+  - spinWheel
+  - player
+  - skybox
+  - shelter
+  - fire
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

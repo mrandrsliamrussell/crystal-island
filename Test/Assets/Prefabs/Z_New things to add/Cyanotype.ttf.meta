@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 16b826da22fcea94e82b37c6ceffa8bd
+timeCreated: 1527154412
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cyanotype
+  fontNames:
+  - Cyanotype
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

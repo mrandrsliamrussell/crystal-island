@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 17a7d00e7d1c1a64e9eea2e8195f2baf
+timeCreated: 1524571250
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Jaguar_CAT
+    100004: Jaguar_Head
+    100006: Jaguar_HeadBone001
+    100008: Jaguar_LLeg1
+    100010: Jaguar_LLeg1 1
+    100012: Jaguar_LLeg2
+    100014: Jaguar_LLeg2 1
+    100016: Jaguar_LLegCollarbone
+    100018: Jaguar_LLegDigit01
+    100020: Jaguar_LLegDigit01 1
+    100022: Jaguar_LLegDigit02
+    100024: Jaguar_LLegPalm
+    100026: Jaguar_LLegPalm 1
+    100028: Jaguar_Neck1
+    100030: Jaguar_Neck2
+    100032: Jaguar_Pelvis
+    100034: Jaguar_Ribcage
+    100036: Jaguar_RLeg1
+    100038: Jaguar_RLeg1 1
+    100040: Jaguar_RLeg2
+    100042: Jaguar_RLeg2 1
+    100044: Jaguar_RLegCollarbone
+    100046: Jaguar_RLegDigit01
+    100048: Jaguar_RLegDigit01 1
+    100050: Jaguar_RLegDigit02
+    100052: Jaguar_RLegPalm
+    100054: Jaguar_RLegPalm 1
+    100056: Jaguar_Spine1
+    100058: Jaguar_Spine2
+    100060: Jaguar_Spine3
+    100062: Jaguar_Tail1
+    100064: Jaguar_Tail2
+    100066: Jaguar_Tail3
+    100068: Jaguar_Tail4
+    100070: Jaguar_Tail5
+    100072: Jaguar_Tail6
+    400000: //RootNode
+    400002: Jaguar_CAT
+    400004: Jaguar_Head
+    400006: Jaguar_HeadBone001
+    400008: Jaguar_LLeg1
+    400010: Jaguar_LLeg1 1
+    400012: Jaguar_LLeg2
+    400014: Jaguar_LLeg2 1
+    400016: Jaguar_LLegCollarbone
+    400018: Jaguar_LLegDigit01
+    400020: Jaguar_LLegDigit01 1
+    400022: Jaguar_LLegDigit02
+    400024: Jaguar_LLegPalm
+    400026: Jaguar_LLegPalm 1
+    400028: Jaguar_Neck1
+    400030: Jaguar_Neck2
+    400032: Jaguar_Pelvis
+    400034: Jaguar_Ribcage
+    400036: Jaguar_RLeg1
+    400038: Jaguar_RLeg1 1
+    400040: Jaguar_RLeg2
+    400042: Jaguar_RLeg2 1
+    400044: Jaguar_RLegCollarbone
+    400046: Jaguar_RLegDigit01
+    400048: Jaguar_RLegDigit01 1
+    400050: Jaguar_RLegDigit02
+    400052: Jaguar_RLegPalm
+    400054: Jaguar_RLegPalm 1
+    400056: Jaguar_Spine1
+    400058: Jaguar_Spine2
+    400060: Jaguar_Spine3
+    400062: Jaguar_Tail1
+    400064: Jaguar_Tail2
+    400066: Jaguar_Tail3
+    400068: Jaguar_Tail4
+    400070: Jaguar_Tail5
+    400072: Jaguar_Tail6
+    4300000: Jaguar_CAT
+    7400000: attack_anim
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Jaguar_CAT
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #24'
+    second: {fileID: 2100000, guid: 395b65b944842264e839888d36efe3f4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 1
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: attack_anim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 26
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
